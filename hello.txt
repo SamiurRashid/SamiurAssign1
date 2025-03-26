@@ -1,4 +1,5 @@
 with open("hello.txt", "w") as file:
-    file.write("Hello, World!")
+    file.write("Hello, Bangladesh!")
 
 print("File hello.txt has been created successfully!")
+Print("Happy Eid Mubarak")
